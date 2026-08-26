@@ -23,3 +23,7 @@ G5 - Project Final Report was the final submission associated with this project 
 This project was chosen as a group, but I weighed in the following motivations for choosing it.
 I am fascinated with neural networks, especially convolutional NNs and computer vision. I had experience with PyTorch, CNNs, and had performed an in-depth analysis of pooling layers a semester prior.
 The intersection between medicine and AI/ML has the potential to be revolutionary. Even though this is a very small subset of what is possible, I wanted to explore the capabilities. 
+
+## Future Improvements
+If I revisit this project, I would make it a standalone piece of software that utilizes my trained model in the background. The notebook and report are interesting artifacts that I will
+keep to display the experimentation behind it all. 
